@@ -51,7 +51,6 @@ print(clean_df)
 
 import sqlalchemy
 
-# ==========================================
 # Streaming Live Tables to MySQL
 print("\nConnecting to analytical storage...")
 
